@@ -20,8 +20,6 @@ export default {
       imageAlt: 'Rear view of modern home with pool',
       beds: 3,
       baths: 2,
-      title: 'Modern home in city center',
-      priceInCents: 190000,
       formattedPrice: '$750,000',
       address: '742 Evergreen Terrace',
       realtorImage: 'https://v1.tailwindcss.com/_next/static/media/erin-lindford.4804b52007ca82ebe9999d19c717b44d.jpg',
